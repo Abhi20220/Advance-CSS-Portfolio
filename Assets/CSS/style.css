@@ -74,7 +74,13 @@
     color: rgb(255, 255, 255);
 }
 
-
+/* menu btn styling */
+.menu-btn {
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+    display: none;
+}
 
 /* home section styling */
 .home {
@@ -106,6 +112,39 @@
 }
 
 .home .home-content .text-3 span {
-    color: rgb(12, 93, 74)
+    color: rgb(12, 93, 74);
 
 }
+
+/* responsive media query start */
+@media (max-width: 947px) {
+
+    .max-width {
+        padding: 0 50px;
+        
+    }
+    .menu-btn {
+        display: block;
+        z-index: 999;
+    }
+    .navbar .menu {
+        position: fixed;
+        height: 100v;
+        width: 100%;
+        left: 0;
+        top: 0;
+        background: black;
+        text-align: center;
+        padding-top: 80px;
+    }
+    .navbar .menu li {
+        display: block;
+    }
+    .navbar .menu li a{
+        display: inline-block;
+        margin: 20px 0;
+        font-size: 25px;
+
+
+}
+    
