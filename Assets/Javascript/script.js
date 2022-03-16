@@ -19,7 +19,24 @@ $(document).ready(function(){
         $('html').animate({scrollTop: 0});
     });
     
+// typing animation script
+    var typed = new Typed(".typing", {
+        strings: ["Coder", "Programmer", "Gamer","Determined Person"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
 
+
+    })
+
+    var typed = new Typed(".typing-2", {
+        strings: ["hilarious person", "gym Enthusiast", "dog lover", "gourmet", "driven person"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+
+
+    })
 
     // toggle menu/navbar script
     $('.menu-btn').click(function(){
