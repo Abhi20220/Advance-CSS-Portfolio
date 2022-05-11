@@ -14,7 +14,7 @@ for said employee with multiple section that highlight the potential employees s
 ## Problems and Solutions
 There were a lot of bugs and problems that were encountered within the structure of the HTML framework as a result affected the CSS. For example a class was mislabeled and as a result the CSS would not be able to function correctly. 
 
-Implementing Javascript within this project was also quite difficult but through guides and a lot of research I was able to implement Javsascript successfully. 
+Implementing Javascript within this project was also quite difficult but through guides and a lot of research I was able to implement Javascript successfully. 
 
 Similar styled CSS elements are also condensed so it looks less messy and I have added comments throughout the CSS detailing the sections and also the "owl" segment which I was not able to get working.
 
