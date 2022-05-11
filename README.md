@@ -29,7 +29,7 @@ Similar styled CSS elements are also condensed so it looks less messy and I have
 6. The page is screen friendly, presenting with a responsive layout and adaptive viewport.
 ```
 
-## Web App Overview
+## Updated Web App Overview
 
 ![Abhishek home page displaying title, navbar, main header and main image](./Assets/Images/Home-page.jpg)
 
@@ -39,9 +39,12 @@ Similar styled CSS elements are also condensed so it looks less messy and I have
 
 ![Abhisheks my skills section, outlining his valuable skills](./Assets/Images/my-skills.jpg)
 
-![Abhisheks project section, showcasing his project albeit three projects appear the others are placeholders for future projects](./Assets/Images/my-projects.jpg)
+![Abhisheks project section, showcasing his project major projects and smaller projects](./Assets/Images/project%20section%20updated.jpg)
 
-![Abhisheks contact me section, showcasing his details and a contact form](./Assets/Images/contact-me.jpg)
+![Abhisheks project section, showcasing his other projects](./Assets/Images/secondary%20project%20section.jpg)
+
+![Abhisheks updated contact me section, showcasing his details and a contact form](./Assets/Images/updated%20contact%20me%20section.jpg)
+
 
 ## Features/Interactions/Points of Interests
 
@@ -49,6 +52,8 @@ Similar styled CSS elements are also condensed so it looks less messy and I have
 
 2. Bottom right corner of the webpage has a 
 scroll up button which takes the user to the top of the website. Displayed below.
+
+3. When "hire me" or "Download CV" is clicked by a user a new window is opened and then they are taken to my resume
 
 ![Scroll up button](./Assets/Images/button-arrow.jpg)
 
